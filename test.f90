@@ -8,4 +8,6 @@ program test_git
 	read *, name
 	print *, "Hello, ", name
 
+	print *, "Why are you still modifying me?"
+
 end program test_git
